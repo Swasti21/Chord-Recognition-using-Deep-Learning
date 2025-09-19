@@ -109,6 +109,7 @@ Chord-Recognition/
 ---
 
 ## ✨ Contributors  
+- **Swasti Rathee** – Developer / ML Engineer  
 - **Akshit Upadhyay** – Developer / ML Engineer  
 
 ---
